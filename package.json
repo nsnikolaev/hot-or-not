@@ -1,0 +1,12 @@
+{
+  "name": "hot-or-not",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd backend && npm i",
+    "start": "node backend/index"
+  },
+  "author": "",
+  "license": "ISC"
+}
